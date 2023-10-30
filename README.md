@@ -17,3 +17,7 @@ npx create-react-app react-webpage(폴더명) 폴더가 있으면 app . 으로 �
 - 필요없는 파일 삭제
 - rafce : 기본 문법 출력 -> 확장 프로그램 설치 ES7
 - 리액트 시작 : `npm start`
+
+## 작업 내용
+1. 컴퍼넌트 및 props를 이용하여 사이트를 만들었습니다.
+2. 가상 돔(Virtual DOM), 컴포넌트 기반, 데이터 처리, JSX를 이용하여 작업하였습니다.
